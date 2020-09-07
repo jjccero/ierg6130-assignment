@@ -1,5 +1,7 @@
 # IERG 6130: Reinforcement Learning and Beyond
 
+> Update (2020-09-07): This repository is archived. No updates expected. The new version of the assignment of the reinforcement learning course lectured by Professor Zhou is at: [ierg5350-assignment](https://github.com/cuhkrlcourse/ierg5350-assignment).
+
 Welcome! This is the codebase for assignments of our reinforcement learning (RL) course. 
 
 As this course is still polishing and growing, please feel free to open issues if you find anything wrong or confusing in codes or documents in this repository. We will respond to you as soon as possible. If you get stuck or mess up, take a look at the latest version of this repo may help, since somebody may already raise issues and bug is fixed by new commits.
